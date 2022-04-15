@@ -1,26 +1,22 @@
 {
-  "name": "server_fastfood",
+  "name": "demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "dungvt",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --inspect index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/votadung2000/Server_FastFood.git"
+    "url": "git+https://github.com/votadung2000/DemoNodeJs.git"
   },
-  "author": "dungvt",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/votadung2000/Server_FastFood/issues"
+    "url": "https://github.com/votadung2000/DemoNodeJs/issues"
   },
-  "homepage": "https://github.com/votadung2000/Server_FastFood#readme",
+  "homepage": "https://github.com/votadung2000/DemoNodeJs#readme",
   "dependencies": {
     "express": "^4.17.3"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
   }
 }
